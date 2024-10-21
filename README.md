@@ -1,0 +1,1 @@
+The document contains water quality data from 61 locations across the Andaman and Nicobar Islands, including measurements of pH levels from wells in South Andaman, North and Middle Andaman, and other districts between 2021-2022. The data includes the well ID, location coordinates, date, and pH reading for each sampling location.
